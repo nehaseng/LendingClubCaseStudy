@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+Lending Club Case Study 
+> An Exploratory Data Analysis.
 
 
 ## Table of Contents
@@ -8,45 +8,52 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+## General Information:
+- This is a  Data science case study that uses the Lending club historical data to predict the loan defaults among customers.
+- An approach of exploratory data analysis (EDA) is used for this case study.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+## Business Objective:
+   - A consumer finance company **Lending Club** wants to identify risky loan applicants based on historical data of applicants.
+   - They want to understand how consumer attributes and loan attributes influence the tendency of default.
+   - The company can then use this knowledge for its portfolio and risk assessment ,which will help them to reduce sanctioning such
+     loans & thereby cutting down the amount of credit loss
+
+## Problem statement:
+   - Identification of such Variables/Factors which are strong indicators of loan default loss.
+
+
+- Dataset for the project:
+  - loan.csv with historical data of Lending Club 
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Risky Consumer attributes :
+  Annual income
+  Loan to income ratio 
+  Home ownership
+  State
+  Public recorded bankruptcies 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Risky Loan attributes:
+  Loan amount 
+  Rate of interest
+  Term & EMI
+  Verification Status 
+  Grade
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.11.8
+- Pandas - version 2.2.1
+- Matplotlib 
+- Seaborn
+- Jupyter notebook
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by the case study hosted by Upgrad & IITB for their Machine learning and Artifical Intelligence PG programme. 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Created by @nehaseng - feel free to contact me!
