@@ -10,8 +10,8 @@
 
 
 ## General Information:
-- This is a  Data science case study that uses the Lending club historical data to predict the loan defaults among customers.
-- An approach of exploratory data analysis (EDA) is used for this case study.
+This is a  Data science case study that uses the Lending club historical data to predict the loan defaults among customers.
+An approach of exploratory data analysis (EDA) is used for this case study.
 
 Business Objective:
    - A consumer finance company **Lending Club** wants to identify risky loan applicants based on historical data of applicants.
@@ -22,7 +22,7 @@ Business Objective:
 Problem statement:
    - Identification of such Variables/Factors which are strong indicators of loan default loss.
 
-- Dataset for the project:
+Dataset for the project:
   - loan.csv with historical data of Lending Club 
 
 ## Technologies Used
