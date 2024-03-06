@@ -35,18 +35,17 @@ Dataset for the project:
 
 ## Conclusions
 - Risky Consumer attributes :
-  Annual income
-  Loan to income ratio 
-  Home ownership
-  State
-  Public recorded bankruptcies 
+  - Annual income
+  - Loan to income ratio 
+  - Home ownership
+  - Public recorded bankruptcies 
 
 - Risky Loan attributes:
-  Loan amount 
-  Rate of interest
-  Term & EMI
-  Verification Status 
-  Grade
+  - Loan amount 
+  - Rate of interest
+  - Term
+  - Verification Status 
+  - Grade
 
 
 ## Acknowledgements
