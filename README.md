@@ -49,7 +49,7 @@ Dataset for the project:
 
 
 ## Acknowledgements
-- This project was inspired by the case study hosted by Upgrad & IITB for their Machine learning and Artifical Intelligence PG programme. 
+- This project was inspired by the case study hosted by Upgrad & IITB for their Machine learning and Artifical Intelligence programme. 
 
 
 ## Contact
