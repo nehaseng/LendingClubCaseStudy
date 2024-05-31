@@ -6,7 +6,6 @@
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
 
 
 ## General Information:
@@ -45,11 +44,7 @@ Dataset for the project:
   - Rate of interest
   - Term
   - Verification Status 
-  - Grade
-
-
-## Acknowledgements
-- This project was inspired by the case study hosted by Upgrad & IITB for their Machine learning and Artifical Intelligence programme. 
+  - Grade 
 
 
 ## Contact
